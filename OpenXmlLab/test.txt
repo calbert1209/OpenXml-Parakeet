@@ -1,0 +1,103 @@
+"ABC-TOS.docx",55ABD1E2,"ABC Partner Terms of Service",28
+"ABC-TOS.docx",3B9FACA9,"",0
+"ABC-TOS.docx",77AF95E6,"ABC, Inc. ("ABC") provides the ...",747
+"ABC-TOS.docx",261695D6," ",1
+"ABC-TOS.docx",4B7F0131,"ABC reserves the right, at its ...",694
+"ABC-TOS.docx",625D9575," ",1
+"ABC-TOS.docx",3B3B8F7B,"For adequate consideration, the...",113
+"ABC-TOS.docx",76FC43B0," ",1
+"ABC-TOS.docx",46BDA741,"1. DEFINITIONS",14
+"ABC-TOS.docx",768E1B30,"As used herein, each of the fol...",99
+"ABC-TOS.docx",44B5EE5B,"1.1. "Affiliate" means, with re...",389
+"ABC-TOS.docx",128604E2,"1.2. "API Documentation" means ...",153
+"ABC-TOS.docx",3A761430,"1.3. "Click" means any click by...",82
+"ABC-TOS.docx",5EF15738,"1.4. "Confidential Information"...",716
+"ABC-TOS.docx",6BABDAC1,"1.5. "Gross Revenue" means the ...",293
+"ABC-TOS.docx",3AF40F08,"1.6. "Intellectual Property Rig...",659
+"ABC-TOS.docx",3FF1758E,"1.7. "Invalid Click" shall mean...",1015
+"ABC-TOS.docx",2D37A5A6,"1.8. "Job Site" means the web p...",108
+"ABC-TOS.docx",4ADA9BB5,"1.9. "Job Listings" means the S...",106
+"ABC-TOS.docx",3F9456C1,"1.10. "Jobs API" means a set of...",330
+"ABC-TOS.docx",38D10873,"1.11. "Job Widgets" means the J...",220
+"ABC-TOS.docx",463DF18E,"1.12. "Mobile Location" means a...",151
+"ABC-TOS.docx",51689CE4,"1.13. "Net Revenue" means Gross...",280
+"ABC-TOS.docx",3557BB88,"1.14. "Organic Job Listings" me...",250
+"ABC-TOS.docx",01C22F0B,"1.15. "Paid Job Listings'' mean...",274
+"ABC-TOS.docx",11937C49,"1.16. "Discount Codes" has the ...",64
+"ABC-TOS.docx",6213B457,"1.17. "Publisher Marks" means a...",147
+"ABC-TOS.docx",28FA6AD0,"1.18. "Publisher Site(s)" means...",227
+"ABC-TOS.docx",29E0750C,"1.19. "Publisher Site Content" ...",355
+"ABC-TOS.docx",22F70BC7,"1.20. "Restricted Content" mean...",1266
+"ABC-TOS.docx",7A8B9087,"1.21. "ABC Code" means the HTML...",186
+"ABC-TOS.docx",573496EF,"1.22. "ABC Marks" means any gra...",238
+"ABC-TOS.docx",178F2D76,"1.23. "ABC Site" means the webs...",151
+"ABC-TOS.docx",6ACFCB27,"1.24. "Sponsored Job Listings" ...",199
+"ABC-TOS.docx",40B1755A,"1.25. "Term" means the period c...",200
+"ABC-TOS.docx",72EFE3F8,"1.26. "User" means a human end ...",115
+"ABC-TOS.docx",78099EF8,"1.27. "ZeroCost Discount Code" ...",72
+"ABC-TOS.docx",2424964B," ",1
+"ABC-TOS.docx",2AA67B03,"2. SERVICES",11
+"ABC-TOS.docx",4FC9EBAB,"2.1. Development and Hosting of...",626
+"ABC-TOS.docx",1062E733,"2.2. Paid Job Listings. The Job...",682
+"ABC-TOS.docx",3D4C4E78,"2.3. Jobs API. ABC may make ava...",1419
+"ABC-TOS.docx",336B1B40,"2.4. Accounts. ABC will establi...",496
+"ABC-TOS.docx",2F012EEF,"2.5. Publisher Site(s). Publish...",1026
+"ABC-TOS.docx",5B7241A4,"2.6. Maintenance; Support. ABC ...",878
+"ABC-TOS.docx",494D20F8," ",1
+"ABC-TOS.docx",2EF6B59E,"3. LICENSE AND RESTRICTIONS",27
+"ABC-TOS.docx",49A23AFA,"3.1. License. Subject to the te...",1102
+"ABC-TOS.docx",6FBD54B8,"3.2. Right to Sublicense to Use...",1154
+"ABC-TOS.docx",4D68171F,"3.3. Restrictions. Except as ex...",2270
+"ABC-TOS.docx",2D4BD8E7,"3.4. Mobile Locations. Except a...",586
+"ABC-TOS.docx",51CCEB30,"3.5. Use of Discount Codes. ABC...",2261
+"ABC-TOS.docx",3D675F0A," ",1
+"ABC-TOS.docx",41B5CADD,"4. PROPRIETARY RIGHTS",21
+"ABC-TOS.docx",76345E04,"4.1. ABC Property. As between P...",726
+"ABC-TOS.docx",5207C892,"4.2. Publisher Property. As bet...",310
+"ABC-TOS.docx",0FA67277,"4.3. Aggregate Data. Each Party...",465
+"ABC-TOS.docx",7F820882,"4.4. Trademarks",15
+"ABC-TOS.docx",3A8D55CB,"4.4.1. Subject to the following...",1411
+"ABC-TOS.docx",5B211C3E,"4.4.2. Subject to the following...",1290
+"ABC-TOS.docx",20456C03," ",1
+"ABC-TOS.docx",224D81BD,"5. REVENUE SHARE AND PAYMENTS",29
+"ABC-TOS.docx",1276F08D,"",0
+"ABC-TOS.docx",77F7103C,"5.1. Reports; Revenue Share. AB...",1332
+"ABC-TOS.docx",5C36C4C8,"5.2. Payments; Taxes. Within fo...",1060
+"ABC-TOS.docx",3C281794," ",1
+"ABC-TOS.docx",691D6A52,"6. CONFIDENTIALITY, PRIVACY AND...",45
+"ABC-TOS.docx",2884B8A9,"6.1. Confidentiality Obligation...",1734
+"ABC-TOS.docx",06AD0251,"6.2. Privacy",12
+"ABC-TOS.docx",363E8583,"6.2.1. General. The Parties sha...",1157
+"ABC-TOS.docx",1794D340,"6.2.2. ThirdParty Job Sites; AB...",1231
+"ABC-TOS.docx",4378FDDD,"6.3. Data Security. Publisher s...",301
+"ABC-TOS.docx",13AFE94B," ",1
+"ABC-TOS.docx",5E95AC33,"7. DISCLAIMER OF REPRESENTATION...",47
+"ABC-TOS.docx",2EFC0515,"EXCEPT AS EXPRESSLY SET FORTH H...",1082
+"ABC-TOS.docx",155BC754,"  ",2
+"ABC-TOS.docx",7CFAAD0A,"8. INDEMNIFICATION",18
+"ABC-TOS.docx",37CD5C6F,"8.1. Publisher Indemnification....",1224
+"ABC-TOS.docx",5C5FD548,"8.2. Indemnification Procedures...",1416
+"ABC-TOS.docx",63860585," ",1
+"ABC-TOS.docx",278E9B68,"9. LIMITATION OF LIABILITY",26
+"ABC-TOS.docx",24ECA153,"NEITHER ABC NOR ITS LICENSORS O...",651
+"ABC-TOS.docx",24F5BE00," ",1
+"ABC-TOS.docx",0286DF78,"10. TERMINATION",15
+"ABC-TOS.docx",0B37AD6D,"10.1. Termination. Either Party...",460
+"ABC-TOS.docx",7204F63B,"10.2. Effect of Expiration or T...",1829
+"ABC-TOS.docx",436718C7,"10.3. Inactive Accounts. ABC sh...",809
+"ABC-TOS.docx",652E75D0,"10.4. Additional Remedies for B...",390
+"ABC-TOS.docx",426A9F81," ",1
+"ABC-TOS.docx",0F75E3C5,"11. MISCELLANEOUS",17
+"ABC-TOS.docx",38AFB01E,"11.1. Compliance with Laws. Eac...",137
+"ABC-TOS.docx",4704478A,"11.2. Marketing and Publicity. ...",598
+"ABC-TOS.docx",0A394E68,"11.3. Force Majeure. Neither Pa...",267
+"ABC-TOS.docx",53819404,"11.4. Assignment. Publisher may...",423
+"ABC-TOS.docx",2D184C0C,"11.5. Notice. Any notice requir...",942
+"ABC-TOS.docx",182A4619,"11.6. Independent Contractors; ...",739
+"ABC-TOS.docx",28CFE97A,"11.7. Dispute Resolution. If an...",306
+"ABC-TOS.docx",4B3CB03B,"11.8. Choice of Law; Jurisdicti...",315
+"ABC-TOS.docx",7241A923,"11.9. Attorneys' Fees. If any a...",342
+"ABC-TOS.docx",5C029E85,"11.10. Entire Agreement. This A...",270
+"ABC-TOS.docx",6B88496D,"11.11. Amendment; Waiver. ABC m...",750
+"ABC-TOS.docx",6675D720,"11.12. Severability. If any ter...",670
+"ABC-TOS.docx",05DB3D5D,"11.13. Headings. The headings c...",185
